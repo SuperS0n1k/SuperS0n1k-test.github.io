@@ -80,6 +80,7 @@ body.dark-theme {
 body {
   background: var(--bkg-color);
   color: var(--text-color);
+  font-family: marker-pro;
 }
 
 .top-right {
