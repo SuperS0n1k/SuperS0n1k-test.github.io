@@ -218,6 +218,13 @@ a.no-hover:hover {
   .tall-body { font: -apple-system-tall-body }
 
 * {
-font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+font-family:marker-pro;
 line-height:1.5;
  }
+@font-face{
+font-family: marker-pro;
+font-weight:100 900;
+font-display:swap;
+font-style:oblique 0deg 10deg;
+src:url(https://chariz.com/assets/c2fe3cb2b7c746f7966a.woff2) format("woff2")
+}
